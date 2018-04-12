@@ -1,5 +1,3 @@
-Ecommerce course with PHP7, paypal, pagseguro and correios br
-
 #E-commerce PHP7 with Paypal and PagSeguro
 (E-commerce PHP7 com Paypal e PagSeguro)
 
